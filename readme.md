@@ -1,8 +1,8 @@
 
-## Some extensions i am gonna make:
+#### Some extensions i am gonna make:
 
 
-Structure:
+##### Structure of a extension:
 - manifest.json
 - background scripts
 - icons

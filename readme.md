@@ -1,4 +1,4 @@
-<img align="left" style="width:260px;" src="https://i.pinimg.com/736x/e9/a4/48/e9a448856154653e0d601b2067d03593.jpg" width="288px">
+<img align="left" style="width:260px;" src="https://i.pinimg.com/736x/3b/12/af/3b12af457dc84d8801a36222b6ac2aa7.jpg" width="288px">
 
 **Chrome Extensions:** extensions can be a tool of both entertainment and great help when working on a broswer
 

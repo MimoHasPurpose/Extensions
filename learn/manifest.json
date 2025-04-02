@@ -1,0 +1,10 @@
+{
+    "name": "hot cat pics",
+    "description": "a extension to show hot cat pics when u are bored.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "hello.html",
+      "default_icon": "hotcat.png"
+    }
+  }

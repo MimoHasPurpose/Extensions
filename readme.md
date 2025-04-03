@@ -26,6 +26,13 @@
         - make it a product 
 - **youtube-extension**: a youtube extension to get details of youtube content.
 
+- **Task**: 
+    - make it open-source.
+    - add a community.
+    - video demonstration.
+    - docs.
+    - easy explanation.
+
 
 ##### side panel
  - `chrome://flags`

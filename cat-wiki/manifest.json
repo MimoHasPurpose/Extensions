@@ -3,14 +3,15 @@
     "description": "a extension to show hot cat pics when u are bored.",
     "version": "1.0",
     "manifest_version": 3,
+    
+    "background": {
+      "service_worker": "service-worker.js"
+    },
     "action": {
-      "default_popup": "enter.html",
-      "default_icon": "hotcat.png"
+      "default_title": "Click to open panel"
     },
-    "side_panel":{
-      "default_path":"sidepanel.html"
+    "side_panel": {
+      "default_path": "enter.html"
     },
-    "permissions": [
-    "sidePanel"
-  ]
+    "permissions": ["sidePanel"]
   }

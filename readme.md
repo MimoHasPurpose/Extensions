@@ -20,8 +20,13 @@
 - **cat-wiki**: documenting all types of cats and making a extension to spread awareness of cats.
     - **features**:
         - make the extension a side panel
+        - add details of more cats and make pics smaller.
+        - fix the html code 
+        - deploy it and share it.
+        - make it a product 
 - **youtube-extension**: a youtube extension to get details of youtube content.
 
 
 ##### side panel
- - chrome://flags
+ - `chrome://flags`
+ - `chrome://extensions`

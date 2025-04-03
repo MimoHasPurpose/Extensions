@@ -7,6 +7,9 @@
       "default_popup": "enter.html",
       "default_icon": "hotcat.png"
     },
+    "side_panel":{
+      "default_path":"sidepanel.html"
+    },
     "permissions": [
     "sidePanel"
   ]

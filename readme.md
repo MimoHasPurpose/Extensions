@@ -21,3 +21,7 @@
     - **features**:
         - make the extension a side panel
 - **youtube-extension**: a youtube extension to get details of youtube content.
+
+
+##### side panel
+ - chrome://flags

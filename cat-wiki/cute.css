@@ -1,21 +1,31 @@
 .pics{
     
     display: inline;
-   
+    background-color: aqua;
     
 }
 .pics>div{
-    
-    border: solid 2px pink;
-    border-radius: 15px;
-    height: 260 px;
-    width: 280px;
-    /* align-content:center; */
     text-align: center;
-    
 }
 .img22{
-    border-radius: 6px;
+    
     width: 200px;
     height:200px;
+}
+img{
+    vertical-align: middle;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.content{
+    height: 30px;
+    width: 100px;
+    border-radius: 10%;
+    border: 2px solid black;
+    background-color: rgb(116, 243, 116);
+    text-decoration-color: black;
+    
+}
 }

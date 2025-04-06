@@ -11,11 +11,19 @@
       "service_worker": "service-worker.js",
       "type": "module"
     },
-    "permissions":["storage"],
-        "minimum_chrome_version": "102",
-        "omnibox": {
-          "keyword": "api"
-        }
+    "permissions":["storage","alarms"],
+    "host_permissions": ["https://chrome.dev/f/*"],
+    "minimum_chrome_version": "102",
+    "omnibox": 
+    {
+        "keyword": "api"
+    },
+    "content_scripts": [
+    {
+      "matches": ["https://developer.chrome.com/docs/extensions/reference/*"],
+      "js": ["content.js"]
+    }
+  ]
     
 
     

@@ -1,6 +1,6 @@
 console.log('sw-omnibox.js');
-...
-// Save default API suggestions
+
+// Initialize default API suggestions
 chrome.runtime.onInstalled.addListener(({ reason }) => {
   if (reason === 'install') {
     chrome.storage.local.set({
@@ -24,13 +24,13 @@ chrome.omnibox.onInputChanged.addListener(async (input, suggest) => {
   });
   suggest(suggestions);
 });
+
 // Open the reference page of the chosen API
 chrome.omnibox.onInputEntered.addListener((input) => {
   chrome.tabs.create({ url: URL_CHROME_EXTENSIONS_DOC + input });
   // Save the latest keyword
   updateHistory(input);
 });
-
 
 async function updateHistory(input) {
   const { apiSuggestions } = await chrome.storage.local.get('apiSuggestions');

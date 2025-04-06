@@ -37,3 +37,6 @@
 ##### side panel
  - `chrome://flags`
  - `chrome://extensions`
+
+ ##### References: 
+ -  webpack: [link](https://webpack.js.org/guides/getting-started/)

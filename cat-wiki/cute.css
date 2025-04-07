@@ -23,9 +23,14 @@ img{
     height: 30px;
     width: 100px;
     border-radius: 10%;
-    border: 2px solid black;
-    background-color: rgb(116, 243, 116);
+    /* border: 2px solid black; */
+    /* background-color: rgb(116, 243, 116); */
     text-decoration-color: black;
-    
+    margin:auto;
 }
+.more{
+    border: 2px solid black;
+    border-radius: 10%;
+    display: flex;
+    background-color: greenyellow;
 }

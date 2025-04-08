@@ -1,3 +1,9 @@
+.underdog-regular {
+    font-family: "Underdog", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
 img{
     vertical-align: middle;
     /* display: inline; */
@@ -9,4 +15,12 @@ img{
 }
 .img{
     text-align: center;
+
+}
+body{
+
+    
+    font-family: "Underdog", system-ui;
+    font-weight: 400;
+    font-style: normal;
 }

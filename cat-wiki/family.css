@@ -1,0 +1,12 @@
+img{
+    vertical-align: middle;
+    /* display: inline; */
+    /* text-align: center; */
+    width: 200px;
+    height: 190px;
+    border-radius: 10%;
+
+}
+.img{
+    text-align: center;
+}

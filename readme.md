@@ -32,6 +32,11 @@
     - video demonstration.
     - docs.
     - easy explanation.
+    - ##### Cat wiki:
+        - fix the code
+        - add more clear images
+        - write proper comments
+        - add a index on page 1
 
 
 ##### side panel
@@ -40,3 +45,5 @@
 
  ##### References: 
  -  webpack: [link](https://webpack.js.org/guides/getting-started/)
+
+

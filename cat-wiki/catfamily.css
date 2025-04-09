@@ -11,4 +11,16 @@ body{
     font-family: "Underdog", system-ui;
     font-weight: 400;
     font-style: normal;
+    background-color: #FDFBD4;
+}
+.history{
+    text-align: center;
+}
+ul.myul{
+    display: inline-block;
+    text-align: left;
+}
+.references{
+    text-align: left;
+
 }

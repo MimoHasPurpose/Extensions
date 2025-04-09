@@ -4,10 +4,13 @@ body{
     font-weight: 400;
     font-style: normal;
 }
+h4{
+   text-align: center;
+}
 .pics{
     
     display: inline;
-    background-color: aqua;
+    background-color: #FDFBD4;
     
 }
 .pics>div{

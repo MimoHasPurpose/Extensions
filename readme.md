@@ -25,6 +25,7 @@
         - deploy it and share it.
         - make it a product 
 - **youtube-extension**: a youtube extension to get details of youtube content.
+- **kaomoji**: a emoji extension inspired from japanese emojis.
 
 - **_Task_**: 
     - make it open-source.
@@ -33,8 +34,8 @@
     - docs.
     - easy explanation.
     - ##### Cat wiki:
-        - fix the code
-        - add more clear images
+        <!-- - fix the code -->
+        <!-- - add more clear images -->
         - write proper comments
         - add a index on page 1
 

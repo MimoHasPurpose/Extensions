@@ -46,5 +46,6 @@
 
  ##### References: 
  -  webpack: [link](https://webpack.js.org/guides/getting-started/)
+ -  chrome for dev: [Link](https://developer.chrome.com/docs/extensions/develop)
 
 

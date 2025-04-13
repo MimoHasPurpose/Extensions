@@ -10,6 +10,7 @@
 - sidebars, popups
 - content scripts
 - web accessible resources
+- we can also work with react and make extensioins
 
 ---
 

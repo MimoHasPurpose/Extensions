@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Side Panel Extension",
+    "version": "1.0",
+    "description": "A Chrome extension with a side panel to interact with web content.",
+    "permissions": [
+      "sidePanel",
+      "activeTab",
+      "tabs",
+      "webNavigation"
+    ],
+    "host_permissions": [
+      "*://*.google.com/*"
+    ],
+    "background": {
+      "service_worker": "service-worker.js"
+    },
+    "side_panel": {
+      "default_path": "sidepanel.html"
+    },
+    "action": {
+      "default_title": "Open Side Panel"
+    }
+  }

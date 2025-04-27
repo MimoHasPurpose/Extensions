@@ -1,0 +1,5 @@
+- browser action
+    -stay in toolbar and accessible at all times.
+- page action
+    -stay in tool bar but greyed out, accessible only on certain pages.
+- run in background

@@ -47,6 +47,12 @@
 
  ##### References: 
  -  webpack: [link](https://webpack.js.org/guides/getting-started/)
+    - javascript bundler
+    - yarn add webpack webpack-cli
+    - yarn add global typescript
+    - yarn add ts-loader
  -  chrome for dev: [Link](https://developer.chrome.com/docs/extensions/develop)
+
+
 
 

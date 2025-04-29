@@ -1,5 +1,5 @@
 {
-    "manifest_version":2,
+    "manifest_version":3,
     "name":"Hello world",
     "version":"1.0",
     "description":"hello world extension.",
